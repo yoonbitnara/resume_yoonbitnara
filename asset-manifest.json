@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume_yoonbitnara/static/css/main.44e43300.chunk.css",
+    "main.js": "/resume_yoonbitnara/static/js/main.8307ba35.chunk.js",
+    "main.js.map": "/resume_yoonbitnara/static/js/main.8307ba35.chunk.js.map",
+    "runtime-main.js": "/resume_yoonbitnara/static/js/runtime-main.128ddd36.js",
+    "runtime-main.js.map": "/resume_yoonbitnara/static/js/runtime-main.128ddd36.js.map",
+    "static/js/2.d8d7afc5.chunk.js": "/resume_yoonbitnara/static/js/2.d8d7afc5.chunk.js",
+    "static/js/2.d8d7afc5.chunk.js.map": "/resume_yoonbitnara/static/js/2.d8d7afc5.chunk.js.map",
+    "index.html": "/resume_yoonbitnara/index.html",
+    "precache-manifest.7968092be0d8bd1f7c8441d5ac42213b.js": "/resume_yoonbitnara/precache-manifest.7968092be0d8bd1f7c8441d5ac42213b.js",
+    "service-worker.js": "/resume_yoonbitnara/service-worker.js",
+    "static/css/main.44e43300.chunk.css.map": "/resume_yoonbitnara/static/css/main.44e43300.chunk.css.map",
+    "static/js/2.d8d7afc5.chunk.js.LICENSE.txt": "/resume_yoonbitnara/static/js/2.d8d7afc5.chunk.js.LICENSE.txt",
+    "static/media/YOON BITNARA.png": "/resume_yoonbitnara/static/media/YOON BITNARA.7e0a26bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.128ddd36.js",
+    "static/js/2.d8d7afc5.chunk.js",
+    "static/css/main.44e43300.chunk.css",
+    "static/js/main.8307ba35.chunk.js"
+  ]
+}
