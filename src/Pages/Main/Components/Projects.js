@@ -11,7 +11,7 @@ export default class Projects extends Component {
           <br />
           2차 프로젝트는 IKEA KOREA 클론 프로젝트 였습니다.
           <br />
-          자세한 내용은 아래 배너를 클릭해주세요😊
+          자세한 내용은 아래 배너를 클릭해주세요. 😊
         </div>
         {projectData.map((card) => {
           return (
